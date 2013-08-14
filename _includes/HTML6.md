@@ -33,9 +33,6 @@ The main difference between the two is that HТML is Turtle-Oriented. You can re
 
 Although the pronunciation is similar, HТML uses a Cyrillic &lsquo;Т&rsquo; to avoid any possible confusion with HTML. The correct way of pronouncing HТML is with a Russian accent on the Т. However, due to complaints about some people &ldquo;not being Russian enough&rdquo; to manage this, &ldquo;H Cyrillic-T M L&rdquo; is considered acceptable.
 
-Incase you haven't realized by now, this specification is not entirely serious. It seems to be all the rage at the moment to write your own HTML specification while drunk (or &ldquo;connoisseuring whiskey&rdquo;, whatever you want to call it), so I thought I'd try my hand at it.
-
-
 Now, without further adieu, let me introduce you to HТML6:
 
 ### Section 3 - The Concept
