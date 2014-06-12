@@ -1,5 +1,7 @@
 window.onload = function () {
   history.pushState(null, null, "/HТML/");
+  body = document.getElementsByTagName("body")[0];
+  body.innerHTML = body.innerHTML.replace(/  HTML6/g, ' HТML6');
   var pres = document.getElementsByTagName("pre");
   var i;
   for(i = 0; i < pres.length; i++) {
