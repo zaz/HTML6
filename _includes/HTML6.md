@@ -78,7 +78,7 @@ If you think you can make this document more awesome, [pull requests](https://gi
 
 #### Legal Text:
 
-Written by **[Zaz Brown](http://zazbrown.com)**. Inspired by [Oscar Godson](http://whothefuckisoscargodson.com)'s <a href="http://html6spec.com" rel="nofollow">html6spec.com</a>. My apologies, Oscar.
+Written by **[Zaz Brown](http://stackoverflow.com/users/405550/zaz)**. Inspired by [Oscar Godson](http://whothefuckisoscargodson.com)'s <a href="http://html6spec.com" rel="nofollow">html6spec.com</a>. My apologies, Oscar.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &ldquo;Software&rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
 
