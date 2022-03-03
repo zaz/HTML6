@@ -27,9 +27,9 @@ The web is moving at a faster pace than ever, and to keep up we need markup that
 
 ### Section 2 - Before Continuing
 
-This specification is about the 6<sup>th</sup> version of HТML (HyperTurtle Markup Language), not HTML (HyperText Markup Language) which is now a [living standard](http://html5doctor.com/html5-living-standard/) - meaning there will be no HTML6.
+This specification is about the 6<sup>th</sup> version of HТML (HyperTurtle Markup Language), not HTML (HyperText Markup Language) which is now a [living standard](https://html5doctor.com/html5-living-standard/) - meaning there will be no HTML6.
 
-The main difference between the two is that HТML is Turtle-Oriented. You can read more about the Turtle-Oriented concept on this page: [Why Turtles Are Awesome](http://pinterest.com/ameliamcquiston/turtles-are-awesome/). (Or view the summary [here](http://cdn.attackofthecute.com/September-01-2011-22-24-51-piccwk6ga282138914530371.jpeg).)
+The main difference between the two is that HТML is Turtle-Oriented. You can read more about the Turtle-Oriented concept on this page: [Why Turtles Are Awesome](https://pinterest.com/ameliamcquiston/turtles-are-awesome/). (Or view the summary [here](http://cdn.attackofthecute.com/September-01-2011-22-24-51-piccwk6ga282138914530371.jpeg).)
 
 Although the pronunciation is similar, HТML uses a Cyrillic &lsquo;Т&rsquo; to avoid any possible confusion with HTML. The correct way of pronouncing HТML is with a Russian accent on the Т. However, due to complaints about some people &ldquo;not being Russian enough&rdquo; to manage this, &ldquo;H Cyrillic-T M L&rdquo; is considered acceptable.
 
@@ -74,11 +74,11 @@ Another difference between  HTML6 and HTML5 are content types. In HTML5, the con
 
 If there's anything that you take away with you today, let it be this: Turtles are fricken' awesome. Also, there will never be a HTML6 :(
 
-If you think you can make this document more awesome, [pull requests](https://github.com/jb/HTML6/pulls) are welcome. If you'd like to make suggestions, discuss turtles, or recommend a psychiatrist, head over to the [issue tracker](https://github.com/jb/HTML6/issues).
+If you think you can make this document more awesome, [pull requests](https://github.com/zaz/HTML6/pulls) are welcome. If you'd like to make suggestions, discuss turtles, or recommend a psychiatrist, head over to the [issue tracker](https://github.com/zaz/HTML6/issues).
 
 #### Legal Text:
 
-Written by **[Zaz Brown](http://stackoverflow.com/users/405550/zaz)** in 2013. Inspired by [Oscar Godson](http://whothefuckisoscargodson.com)'s <a href="http://html6spec.com" rel="nofollow">html6spec.com</a>. My apologies, Oscar.
+Written by **[Zaz Brown](https://stackoverflow.com/users/405550/zaz)** in 2013. Inspired by [Oscar Godson](http://whothefuckisoscargodson.com)'s <a href="http://html6spec.com" rel="nofollow">html6spec.com</a>. My apologies, Oscar.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &ldquo;Software&rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
 
