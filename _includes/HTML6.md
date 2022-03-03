@@ -29,7 +29,7 @@ The web is moving at a faster pace than ever, and to keep up we need markup that
 
 This specification is about the 6<sup>th</sup> version of HТML (HyperTurtle Markup Language), not HTML (HyperText Markup Language) which is now a [living standard](https://html5doctor.com/html5-living-standard/) - meaning there will be no HTML6.
 
-The main difference between the two is that HТML is Turtle-Oriented. You can read more about the Turtle-Oriented concept on this page: [Why Turtles Are Awesome](https://pinterest.com/ameliamcquiston/turtles-are-awesome/). (Or view the summary [here](http://cdn.attackofthecute.com/September-01-2011-22-24-51-piccwk6ga282138914530371.jpeg).)
+The main difference between the two is that HТML is Turtle-Oriented. You can read more about the Turtle-Oriented concept on this page: [Why Turtles Are Awesome](https://pinterest.com/ameliamcquiston/turtles-are-awesome/). (Or view the summary [here](https://i.pinimg.com/550x/27/d9/b7/27d9b7ea30ddf2c7650385ca080717a8.jpg).)
 
 Although the pronunciation is similar, HТML uses a Cyrillic &lsquo;Т&rsquo; to avoid any possible confusion with HTML. The correct way of pronouncing HТML is with a Russian accent on the Т. However, due to complaints about some people &ldquo;not being Russian enough&rdquo; to manage this, &ldquo;H Cyrillic-T M L&rdquo; is considered acceptable.
 
